@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dani2601&label=Profile%20views&color=0e75b6&style=flat" alt="dani2601" /> </p>
+
 <h1 align="center">Hi 👋, I'm Aivan Daniel Vitalista</h1>
 <h3 align="center">A passionate web and mobile application developer</h3>
 
